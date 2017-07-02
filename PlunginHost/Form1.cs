@@ -31,9 +31,9 @@ namespace PlunginHost
             {
                 Assembly a = Assembly.LoadFrom(op.FileName);
 
-                Type t = a.GetType("PluginImplementation.Form1");
+                Type t = a.GetType("PluginImplementation.Plugin1");
 
-                IPlugin p = Activator.CreateInstance(t) as IPlugin;
+                IPlugin p = Activator.CreateInstance(t, "TestPlugin1.0") as IPlugin;
 
                 XDocument dummydata = XDocument.Parse(string.Format("<module ID='1'></module>"));
             

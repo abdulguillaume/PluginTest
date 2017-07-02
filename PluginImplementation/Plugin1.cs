@@ -32,7 +32,7 @@ namespace PluginImplementation
         {
             XDocument _data = null;
 
-            using (Form1 f = new Form1("some message!"))
+            using (Form1 f = new Form1())
             {
                 if (f.ShowDialog() == DialogResult.OK)
                 {
