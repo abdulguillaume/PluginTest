@@ -1,0 +1,10 @@
+c:\users\iombioserve7\documents\visual studio 2010\Projects\PlunginHost\PlunginHost\bin\Debug\PlunginHost.exe
+c:\users\iombioserve7\documents\visual studio 2010\Projects\PlunginHost\PlunginHost\bin\Debug\PlunginHost.pdb
+c:\users\iombioserve7\documents\visual studio 2010\Projects\PlunginHost\PlunginHost\bin\Debug\Plugin.dll
+c:\users\iombioserve7\documents\visual studio 2010\Projects\PlunginHost\PlunginHost\bin\Debug\Plugin.pdb
+c:\users\iombioserve7\documents\visual studio 2010\Projects\PlunginHost\PlunginHost\obj\x86\Debug\PlunginHost.csprojResolveAssemblyReference.cache
+c:\users\iombioserve7\documents\visual studio 2010\Projects\PlunginHost\PlunginHost\obj\x86\Debug\PlunginHost.Form1.resources
+c:\users\iombioserve7\documents\visual studio 2010\Projects\PlunginHost\PlunginHost\obj\x86\Debug\PlunginHost.Properties.Resources.resources
+c:\users\iombioserve7\documents\visual studio 2010\Projects\PlunginHost\PlunginHost\obj\x86\Debug\PlunginHost.csproj.GenerateResource.Cache
+c:\users\iombioserve7\documents\visual studio 2010\Projects\PlunginHost\PlunginHost\obj\x86\Debug\PlunginHost.exe
+c:\users\iombioserve7\documents\visual studio 2010\Projects\PlunginHost\PlunginHost\obj\x86\Debug\PlunginHost.pdb

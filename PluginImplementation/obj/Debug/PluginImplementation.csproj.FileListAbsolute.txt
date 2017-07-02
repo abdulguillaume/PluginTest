@@ -1,0 +1,9 @@
+c:\users\iombioserve7\documents\visual studio 2010\Projects\PlunginHost\PluginImplementation\bin\Debug\PluginImplementation.dll
+c:\users\iombioserve7\documents\visual studio 2010\Projects\PlunginHost\PluginImplementation\bin\Debug\PluginImplementation.pdb
+c:\users\iombioserve7\documents\visual studio 2010\Projects\PlunginHost\PluginImplementation\bin\Debug\Plugin.dll
+c:\users\iombioserve7\documents\visual studio 2010\Projects\PlunginHost\PluginImplementation\bin\Debug\Plugin.pdb
+c:\users\iombioserve7\documents\visual studio 2010\Projects\PlunginHost\PluginImplementation\obj\Debug\PluginImplementation.dll
+c:\users\iombioserve7\documents\visual studio 2010\Projects\PlunginHost\PluginImplementation\obj\Debug\PluginImplementation.pdb
+C:\Users\IOMBIOSERVE7\Documents\Visual Studio 2010\Projects\PlunginHost\PluginImplementation\obj\Debug\PluginImplementation.csprojResolveAssemblyReference.cache
+C:\Users\IOMBIOSERVE7\Documents\Visual Studio 2010\Projects\PlunginHost\PluginImplementation\obj\Debug\PluginImplementation.Form1.resources
+C:\Users\IOMBIOSERVE7\Documents\Visual Studio 2010\Projects\PlunginHost\PluginImplementation\obj\Debug\PluginImplementation.csproj.GenerateResource.Cache

@@ -1,0 +1,4 @@
+c:\users\iombioserve7\documents\visual studio 2010\Projects\PlunginHost\Plugin\bin\Debug\Plugin.dll
+c:\users\iombioserve7\documents\visual studio 2010\Projects\PlunginHost\Plugin\bin\Debug\Plugin.pdb
+c:\users\iombioserve7\documents\visual studio 2010\Projects\PlunginHost\Plugin\obj\Debug\Plugin.dll
+c:\users\iombioserve7\documents\visual studio 2010\Projects\PlunginHost\Plugin\obj\Debug\Plugin.pdb
